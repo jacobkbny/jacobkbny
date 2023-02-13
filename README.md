@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+Language
+<br/>
 <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP"><img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=red"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=yellow"/>
 <br/>
 FrameWork
+<br/>
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 
