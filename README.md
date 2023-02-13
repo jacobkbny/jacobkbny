@@ -5,7 +5,11 @@ Language
 <br/>
 FrameWork
 <br/>
-<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"/>
+
 
 
 ![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
