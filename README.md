@@ -20,6 +20,8 @@ DataBase
 ![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkbny)](https://github.com/jacobkbny/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkbny)](https://github.com/jacobkbny/github-readme-stats)
 <!--
 **jacobkbny/jacobkbny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
