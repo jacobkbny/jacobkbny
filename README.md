@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP">
 
 ![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
 <!--
