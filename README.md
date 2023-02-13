@@ -2,6 +2,8 @@
 
 <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP">
 
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
+
 ![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
 <!--
 **jacobkbny/jacobkbny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
