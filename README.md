@@ -11,7 +11,9 @@ FrameWork
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"/>
 <br/>
 DataBase
+<br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-F80000?style=flat-square&logo=mySQL&logoColor=white"/>
 
 
 
