@@ -1,7 +1,7 @@
 ### Hi there 👋
 Language
 <br/>
-<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP"> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=red"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <br/>
 FrameWork
 <br/>
@@ -10,7 +10,7 @@ FrameWork
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gin-00AE83?style=flat-square&logo=gin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gin-00AE83?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <br/>
 DataBase
