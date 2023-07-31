@@ -24,6 +24,7 @@ DevOps
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<br/><br/>
 ![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkbny&layout=compact&theme=tokyonight)](https://github.com/jacobkbny/github-readme-stats)
