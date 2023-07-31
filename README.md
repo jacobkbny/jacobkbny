@@ -1,7 +1,7 @@
 ### Hi there 👋
 Language
 <br/>
-<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP"><img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=red"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=yellow"/><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=black"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/jacobkbny/MSP">&nbsp;<img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=red"/>&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=yellow"/>&nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=blue"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <br/>
 FrameWork
 <br/>
