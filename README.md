@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe style="position: absolute; width:100%; height:100%;" width="1280" height="720" src="https://chartbase.so/embed/bc8e43c0-e441-4bc0-8bb4-e03de9727702" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 Language
