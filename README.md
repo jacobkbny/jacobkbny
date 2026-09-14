@@ -28,8 +28,5 @@ DevOps
 <br/><br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br/><br/>
-![jacobkbny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkbny&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkbny&layout=compact&theme=tokyonight)](https://github.com/jacobkbny/github-readme-stats)
 
 
